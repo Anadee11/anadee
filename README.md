@@ -2,7 +2,7 @@
   Portfolio Website
 </h1>
 <p align="center">
- Anadee's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+ Anadee's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <img width="1431" alt="Screenshot 2022-07-15 at 4 28 37 PM" src="https://user-images.githubusercontent.com/73078636/180059002-272727d8-9dee-4124-8e48-1c5c330612e6.png">
 
