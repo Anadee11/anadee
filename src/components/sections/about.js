@@ -123,12 +123,13 @@ const About = () => {
       return;
     }
 
-    sr.reveal(revealContainer.current, srConfig()); 
+    sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript', 'React', 'Redux','Electron'];
+  const skills = ['JavaScript', 'React', 'Redux', 'Electron'];
 
   return (
+    /* eslint-disable jsx-a11y/anchor-is-valid */
     <StyledAboutSection id="about" ref={revealContainer}>
       <h2 className="numbered-heading">About Me</h2>
 
@@ -136,22 +137,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-             Hello!
-             My name is <a href="javascript:void(0)">Anadee.</a>
-             </p>
-             <p>
-             I am a <a href="javascript:void(0)">3rd Year</a> undergraduate pursuing my Bachelor's degree in Computer Science and Engineering(2020-2024).
-             </p>
-             <p>
-             Being a person who loves to meet and interact with new people, I am a part of many communities be it in college or global communities.
-             </p>
-             <p>
-             I am a part of Nibble Computer Society, the official technical society of the department of CSE of my college.
+              Hello! My name is <a href="javascript:void(0);">Anadee.</a>
             </p>
-             I prefer Chess and Chai over Netflix and Chill.
-
-            
-
+            <p>
+              I am a <a href="javascript:void(0);">sophomore year</a> undergraduate pursuing my
+              Bachelor's degree in Computer Science and Engineering(2020-2024).
+            </p>
+            <p>
+              Being a person who loves to meet and interact with new people, I am a part of many
+              communities be it in college or global communities.
+            </p>
+            <p>
+              I am a part of Nibble Computer Society, the official technical society of the
+              department of CSE of my college.
+            </p>
+            I prefer Chess and Chai over Netflix and Chill.
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
