@@ -140,8 +140,8 @@ const About = () => {
               Hello! My name is <a href="javascript:void(0);">Anadee.</a>
             </p>
             <p>
-              I am a <a href="javascript:void(0);">sophomore year</a> undergraduate pursuing my
-              Bachelor's degree in Computer Science and Engineering(2020-2024).
+              I am a <a href="javascript:void(0)">3rd Year</a> undergraduate pursuing my Bachelor's
+              degree in Computer Science and Engineering(2020-2024).
             </p>
             <p>
               Being a person who loves to meet and interact with new people, I am a part of many

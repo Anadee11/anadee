@@ -2,7 +2,7 @@
 date: '2017-08-01'
 title: 'Food Ordering'
 github: 'https://github.com/Anadee11/Food-Ordering-Website'
-external: 'food-ordering-11.netlify.app/'
+external: 'https://food-ordering-11.netlify.app/'
 tech:
   - CSS
   - HTML
