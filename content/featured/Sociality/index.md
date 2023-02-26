@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Sociality'
 cover: './Sociality.png'
 github: 'https://github.com/Anadee11/Sociality'
