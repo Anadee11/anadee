@@ -7,6 +7,6 @@ range: 'Jan 2023 - Present'
 url: 'https://fiellements.com/'
 ---
 
-- Developing and maintaining client Website as a Frontend Developer.
+- Developing and maintaining client websites as a Frontend Developer.
 - Guiding and helping other interns in the Frontend Team.
 - Tech Stack = ReactJs, MaterialUI, Redux and RestAPI.
